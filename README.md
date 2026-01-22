@@ -8,7 +8,7 @@
   <h3>🚀 Building seamless experiences for Web & Mobile</h3>
 </div>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="250" src="https://giphy.com/embed/12CSpwCtoy1Vfy" />
 
 <p align="left">
   I am a final-year <b>Software Engineering student at FPT University</b> with international internship experience at <b>FPT Software Philippines</b>. 
