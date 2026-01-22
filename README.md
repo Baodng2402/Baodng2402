@@ -17,5 +17,5 @@ I am proficient in **TypeScript, React, and Node.js**, dedicated to building sca
 </p>
 
 ### 📊 GitHub Stats
-![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baodng2402&show_icons=true&theme=radical)
+![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baodng2402&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baodng2402&layout=compact&theme=radical)
