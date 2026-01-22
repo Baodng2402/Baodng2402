@@ -8,11 +8,15 @@
   <h3>🚀 Building seamless experiences for Web & Mobile</h3>
 </div>
 
-<p align="center">
-  I am a final-year <b>Software Engineering student at FPT University</b> with international internship experience at <b>FPT Software Philippines</b>. I specialize in building scalable applications using the JavaScript ecosystem and cross-platform technologies.
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<p align="left">
+  I am a final-year <b>Software Engineering student at FPT University</b> with international internship experience at <b>FPT Software Philippines</b>. 
+  <br/><br/>
+  I specialize in building scalable applications using the JavaScript ecosystem and cross-platform technologies.
 </p>
 
-<div align="center">
+<div align="left">
 
   🔭 **Working on**: Cross-platform EV Rental Systems & EdTech solutions  
   🌱 **Learning**: Advanced System Design & Cloud Architecture  
@@ -20,6 +24,7 @@
   📫 **Contact**: <a href="mailto:Baodngworkstation@gmail.com">Baodngworkstation@gmail.com</a>
 
 </div>
+<br/>
 
 ---
 
