@@ -55,13 +55,28 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+## 🔥 Streak Stats
 
-<div align="center">
-  <a href="https://github.com/Baodng2402">
-    <img src="https://github-readme-stats.vercel.app/api?username=Baodng2402&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Baodng2402">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baodng2402&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baodng2402&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baodng2402&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
