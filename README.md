@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20232A&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dang+Nguyen+Gia+Bao;Fullstack+Developer;React+%26+Next.js+Developer;Java+Spring+Boot+%26+NestJS+Enthusiast;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Dang+Nguyen+Gia+Bao;Software+Engineer;Fullstack+Developer+(Frontend+Focused);React+%26+Next.js+Specialist;Building+Scalable+%26+Performant+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <b>Software Engineering Graduate from FPT University</b> <br>
-  <i>Fullstack Developer | Previously interned at FPT Software Philippines</i>
+  <b>Software Engineer | Fullstack Developer</b> <br>
+  <i>Crafting Modern Web Experiences & Scalable Backend Solutions</i>
 </p>
 
 <div align="center">
@@ -24,20 +24,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcydGlxbTM5MTZ0ZWlrZG01b2p5cjVkZTdqa2VhaHI3dHlvenlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Coding GIF" width="500" style="border-radius: 10px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcydGlxbTM5MTZ0ZWlrZG01b2p5cjVkZTdqa2VhaHI3dHlvenlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Coding GIF" width="480" style="border-radius: 10px;" />
 </div>
 
 <br/>
 
 <p align="center">
-  I focus on building responsive web interfaces, scalable backend services, and API-driven business applications.<br>
-  I enjoy working across the stack with <b>React</b>, <b>Next.js</b>, <b>Java Spring Boot</b>, <b>NestJS</b>, and relational databases.
+  I am a passionate <b>Software Engineer</b> dedicated to building clean, accessible, and high-performance applications.<br>
+  My main technical focus is on <b>Frontend Development</b> using modern frameworks like <b>React</b> and <b>Next.js</b>, <br>
+  complemented by hands-on expertise in <b>Backend Architecture (NestJS, Java Spring Boot)</b> and relational databases.
 </p>
 
 <div align="center">
-  🔭 <b>Working on:</b> Fullstack web apps, CMS dashboards, ordering systems, and internal business tools <br>
-  🌱 <b>Learning:</b> Advanced System Design, Backend Architecture, DevOps, and RPA <br>
-  ⚡ <b>Stack:</b> React, Next.js, TypeScript, Java Spring Boot, NestJS, PostgreSQL
+  🔭 <b>Working on:</b> Production-ready web systems, CMS platforms, and scalable SaaS solutions <br>
+  🌱 <b>Learning:</b> Advanced System Design, Microservices, RPA, and Cloud Integration <br>
+  ⚡ <b>Core Stack:</b> React, Next.js, TypeScript, NestJS, Tailwind CSS, PostgreSQL
 </div>
 
 <br/>
@@ -47,40 +48,29 @@
 <h3 align="center">🛠 Tech Stack & Tools</h3>
 
 <h4 align="center">Frontend</h4>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend" />
 </div>
 
 <br/>
 
-<h4 align="center">Backend</h4>
-
+<h4 align="center">Backend & Database</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,express,java,spring,postgres,mysql,mongodb" alt="Backend & Database" />
 </div>
 
 <br/>
 
-<h4 align="center">Database</h4>
-
+<h4 align="center">Mobile, DevOps & Tools</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Database" />
-</div>
-
-<br/>
-
-<h4 align="center">Mobile & Tools</h4>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,docker,git,github,githubactions,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,docker,git,github,githubactions,vscode,postman" alt="Tools" />
 </div>
 
 <br/>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Github Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baodng2402&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
