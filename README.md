@@ -23,12 +23,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODcydGlxbTM5MTZ0ZWlrZG01b2p5cjVkZTdqa2VhaHI3dHlvenlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Coding GIF" width="480" style="border-radius: 10px;" />
-</div>
-
-<br/>
-
 <p align="center">
   I am a passionate <b>Software Engineer</b> dedicated to building clean, accessible, and high-performance applications.<br>
   My main technical focus is on <b>Frontend Development</b> using modern frameworks like <b>React</b> and <b>Next.js</b>, <br>
@@ -52,14 +46,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend" />
 </div>
 
-<br/>
-
 <h4 align="center">Backend & Database</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nestjs,express,java,spring,postgres,mysql,mongodb" alt="Backend & Database" />
 </div>
-
-<br/>
 
 <h4 align="center">Mobile, DevOps & Tools</h4>
 <div align="center">
@@ -70,26 +60,23 @@
 
 ---
 
-## 🔥 Github Stats
+<h3 align="center">📊 GitHub Profile</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baodng2402&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=Baodng2402&widget=hunter&theme=nord&motion=calm&icons=brand&title=auto&timezone=Asia%2FSaigon" alt="Profile card" width="100%" />
+</div>
 
----
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=Baodng2402&widget=web&theme=nord&motion=calm&icons=brand&title=auto&timezone=Asia%2FSaigon" alt="Stat web" width="49%" />
+  <img src="https://git-profile-awaken.vercel.app/api?username=Baodng2402&widget=skills&theme=nord&motion=calm&icons=brand&title=auto&timezone=Asia%2FSaigon" alt="Top languages" width="49%" />
+</div>
 
-## 📈 Contribution Graph
+<div align="center">
+  <img src="https://git-profile-awaken.vercel.app/api?username=Baodng2402&widget=activity&theme=nord&activity=arise&motion=calm&icons=brand&title=auto&timezone=Asia%2FSaigon" alt="Contribution year" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baodng2402&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
